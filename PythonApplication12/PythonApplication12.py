@@ -1,3 +1,3 @@
 no = 50
 for i in no:
-    print("*")
+    print("No still not funny")
